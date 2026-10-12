@@ -1,0 +1,15 @@
+# One search per line:  THEME | what to look for on GitHub
+# GitHub requires ALL words to appear (in the name, description or topics): short searches find more.
+# You can use GitHub's own qualifiers: topic:name, language:python, "exact phrase".
+# @new 7  = repositories created in the last 7 days that gained the most stars, on any subject.
+# Lines starting with # are ignored. Edit freely: a bad search only produces noise.
+
+VIDEO   | text to video ffmpeg
+VIDEO   | topic:video-generation python
+
+NOTES   | local-first notes markdown
+NOTES   | offline knowledge base
+
+AGENTS  | topic:mcp-server python
+
+FRESH   | @new 7
